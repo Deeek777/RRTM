@@ -4,7 +4,11 @@
   "description": "RoboRebels Team Manager",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.15.2"
+    "async": "^2.3.0", 
+    "debug": "^2.6.3",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "underscore": "^1.8.3"
   },
   "devDependencies": {},
   "scripts": {
